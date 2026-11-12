@@ -1,0 +1,6 @@
+{
+  "name": "RupeeFlow - Smart Expense & Budget Manager",
+  "description": "Comprehensive personal finance dashboard with budget tracking, transaction analytics, multi-wallet support, recurring expenses, and AI spending insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
